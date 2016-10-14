@@ -4,9 +4,9 @@
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "sosresto.merchant.app"
     version   = "1.0.4">
-    <name>SOS Resto - Restaurateur App</name>
+    <name>SOS Resto - Mon resto/name>
     <description>
-        SOS Resto - Restaurateur App
+        Gérer les commandes et les livraisons de mon restaurant SOS Resto
     </description>
     <author email="toxicportfolio@gmail.com" href="http://cordova.io">
         sosresto.com
