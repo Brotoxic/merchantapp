@@ -3,7 +3,7 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "sosresto.merchant.app"
-    version   = "1.0.7">
+    version   = "1.0.8">
     <name>SOS Resto - Mon resto</name>
     <description>
         Gérer les commandes et les livraisons de mon restaurant SOS Resto
